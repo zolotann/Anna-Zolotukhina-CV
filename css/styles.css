@@ -50,5 +50,25 @@ body {
 	flex-basis: 1.4em;
 }
 .funky-text {
+	color: #8E59C0;
+
+text-align: center;
+
+font-style: italic;
+
+text-decoration: underline #ffcc90;
+
+}
+.my-box {
+
+background: #f0ccff;
+
+padding-top: 10px;
+
+padding-bottom: 30px;
+
+border: 4px dashed #20cc20;
+
+margin: 20px;
 
 }
