@@ -11,6 +11,9 @@ body {
 	background-color: #FFF4FA;
 }
 
+h1 {
+	font-family: 'Fredoka', sans-serif;
+}
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
